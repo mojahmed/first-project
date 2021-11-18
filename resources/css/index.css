@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box ;
+}
+html{
+    height: 100%
+}
+body{
+    background-image: url("../Images/Feature-Home-Office-GEtty-Resized.jpg");
+    background-size: 100%;
+    background-color: yellowgreen;
+    background-size:cover;
+    background-position:center;
+    box-sizing:border-box ;
+    background-repeat: no-repeat;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+.menu{
+    background-color: darkolivegreen;
+    text-align: center;
+    
+}
+.menu ul{
+    list-style-type: none;
+    
+    
+    color:#f2f2f2;
+   
+   
+    display: inline-flex;
+   
+   
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+    font-size: 17px;
+
+}
+.menu ul li {
+  
+   
+    padding: 0px;
+ 
+    margin: 0px;
+    
+    
+    width: 120px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+
+
+
+}
+.nav-bar,.menu ul li a:hover{
+    background: black;
+    border-radius: 3px;
+    padding: 0px;
+    top: 0px;
+    float: center;
+   
+   
+}
+.Image{
+    height: 100px;
+    width: 150px;
+    right: 0px;
+    padding: auto;
+    margin: 20px;
+    
+    
+    border-color:darkolivegreen;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+    
+    
+    position: absolute;
+}
+.logo{
+    text-align: left;
+    position: relative;
+    top: 15px;
+    font-size: 17px;
+    
+    
+   
+    
+    
+    
+ 
+}
+h2{
+    top: 0%;
+    
+} 
+
+
+
+

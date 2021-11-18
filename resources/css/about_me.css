@@ -1,0 +1,99 @@
+html{
+   height: 50% ;
+}
+body{
+    
+        background-image: url("../Images/IMG_8082.png");
+        background-size: 10%;
+        background-color: yellowgreen;
+        background-size:cover;
+        background-position:center;
+        box-sizing:border-box ;
+        background-repeat: no-repeat;
+        }
+
+.baner{
+    color:black;
+    text-align: center;
+   position: relative;
+   bottom: 0px;
+   right: 100px;
+  
+    
+   
+    float: center;
+}
+#Mohh{
+    height: 150px;
+    width: 300px;
+    text-align: right;
+    padding: 0px;
+    margin: auto;
+    position: relative;
+    bottom: 25px;
+    right: 100px;
+
+
+}
+#Home{
+    
+    color: white;
+    font-family: Arial;
+    font-size: 28px;
+   
+    
+}
+
+#work{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+#school{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.about_me{
+    color: white;
+    font-family: Freestyle Script;
+    text-align: center;
+    font-size: 30px;
+    box-decoration-break: slice;
+    white-space: nowrap;
+    line-height:50px;
+    position: relative;
+    bottom: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    
+    
+}
+   
+  
+ 
+
+    
+
+
+
+.nav-bar{
+    text-align: left;
+}
+.nav-text{
+    position: absolute;
+    bottom: 50px;
+    right: 150px;
+    top:100px;
+  
+
+    text-align: center;
+    float: center;
+  
+}
+.nav-link:hover{
+    background-color: black;
+}
+
